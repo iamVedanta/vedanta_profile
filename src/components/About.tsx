@@ -4,7 +4,7 @@ const About = () => {
       <div className="container mx-auto px-6">
         <div className="max-w-4xl">
           <h2 className="text-4xl font-orbitron font-bold mb-12 flex items-center">
-            <span className="text-primary font-mono mr-4 text-2xl"></span>
+            <span className="text-primary font-mono mr-4 text-2xl">1.</span>
             <span className="text-foreground">A Bit about</span>
             <span className="bg-gradient-to-r from-orange-400 to-red-500 bg-clip-text text-transparent ml-2">
               ME
